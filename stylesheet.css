@@ -6,6 +6,10 @@ body {
 	padding: 20px;
 }
 
+h1 h2 h3 {
+	font-size: 4em;
+}
+
 .content {
   display: flex;
   justify-content: center;
@@ -31,8 +35,4 @@ html {
 p {
 	font: Georgia;
 	font-size: 2em;
-}
-
-h1 h2 h3 {
-	font-size: 4em;
 }

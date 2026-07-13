@@ -30,6 +30,12 @@ html {
 
 p {
 	font: Georgia;
-	font-size: 3em;
+	font-size: 2em;
+	align-items:center;
+}
+
+h1 h2 h3 {
+	font: Lucida Handwriting;
+	font-size: 4em;
 	align-items:center;
 }

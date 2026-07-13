@@ -27,3 +27,9 @@ body {
 html {
 	background: rgb(123, 121, 143);
 }
+
+p {
+	font: Georgia;
+	font-size: 3em;
+	align-items:center;
+}

@@ -22,3 +22,7 @@ body {
   justify-content: center;
   align=items: center;
 }
+
+html {
+	background: rgb(123, 121, 143);
+}

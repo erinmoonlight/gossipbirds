@@ -25,7 +25,8 @@ h1 h2 h3 {
 .title {
   display: flex;
   justify-content: center;
-  align=items: center;
+  align-items: center;
+	padding: 3em;
 }
 
 html {

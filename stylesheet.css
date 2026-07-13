@@ -36,3 +36,7 @@ p {
 	font: Georgia;
 	font-size: 2em;
 }
+
+section {
+	padding: 3em;
+}

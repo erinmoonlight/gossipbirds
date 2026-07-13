@@ -4,8 +4,10 @@
   align-items: center;
 }
 
-h1 h2 h3 {
+.banner {
+  display: flex;
   justify-content: center;
   align-items: center;
+  border-style: dotted;
 }
 

@@ -10,8 +10,8 @@ h1 h2 h3 {
 }
 
 .banner {
-  width: 90%;
-  background-image: url('banner1.png');
+  display: flex;
+  background-image: url("banner1.png");
   background-size: cover;
   background-position: center;
   }

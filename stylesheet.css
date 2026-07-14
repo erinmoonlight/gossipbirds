@@ -14,7 +14,7 @@ header h1 {
 .headtwo {
 	color: DarkViolet;
 	font-size: 72px;
-	justify-content: center;
+	text-align: center;
 }
 
 .content {

@@ -24,6 +24,10 @@ header h1 {
   align-items: center;
 }
 
+img.content{
+	object-fit: contain;
+}
+
 .banner {
   display: flex;
   justify-content: center;

@@ -90,3 +90,7 @@ a:hover {
 a:active {
   color: #f8f8ff;
 }
+
+header {
+  position: fixed
+}

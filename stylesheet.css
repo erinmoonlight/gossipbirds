@@ -9,10 +9,11 @@ body {
 header h1 {
 	font-size: 4em;
 	font: Lucida Handwriting;
+	font-color: #f8f8ff
 }
 
 .headtwo {
-	color: DarkViolet;
+	color: #f8f8ff;
 	font-size: 3em;
 	text-align: center;
 }
@@ -44,6 +45,7 @@ p {
 	font: Georgia;
 	font-size: 2em;
 	display: flex;
+	color: f8f8ff;
 }
 
 section {
@@ -62,3 +64,23 @@ ul {
 	text-align: center;
 	background: rgb(123, 121, 145);
 	)
+	
+/* unvisited link */
+a:link {
+  color: #f8f8ff;
+}
+
+/* visited link */
+a:visited {
+  color: #f8f8ff;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #f8f8ff;
+}

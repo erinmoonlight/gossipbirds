@@ -63,11 +63,10 @@ ul {
 	border-style: dotted;
 	text-align: center;
 	background: rgb(123, 121, 145);
-	)
+}
 	
-/* unvisited link */
 a:link {
-  color: #f8f8ff;
+	color: #f8f8ff
 }
 
 /* visited link */

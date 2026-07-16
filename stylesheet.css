@@ -32,6 +32,10 @@ header h1 {
 	margin-bottom: 0.25em;
 }
 
+.tagline {
+	text-align: center;	
+}
+
 .content {
 	display: flex;
 	justify-content: center;

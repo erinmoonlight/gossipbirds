@@ -43,7 +43,10 @@ header h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-	border: double;
+}
+
+.banner img {
+  border: double;
   border-weight: 15px;
   border-color: f8f8ff;
 }

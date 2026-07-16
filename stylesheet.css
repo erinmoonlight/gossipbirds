@@ -15,7 +15,7 @@ body {
 }
 	
 header h1 {
-	font-size: 12vw;
+	font-size: 10vw;
 	font-color: #f8f8ff;
 	text-align: center;
 	font-family: myFont;
@@ -25,7 +25,7 @@ header h1 {
 
 .headtwo {
 	color: #f8f8ff;
-	font-size: 10vw;
+	font-size: 8vw;
 	text-align: center;
 	font-family: myFont;
 	margin-top: 0.25em;
@@ -33,18 +33,18 @@ header h1 {
 }
 
 .content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border: double;
-  border-weight: 15px;
-  border-color: f8f8ff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .content img {
 	max-width: 50vw;
 	height: auto;
 	object-fit: contain;
+	border: double;
+	border-weight: 15px;
+	border-color: f8f8ff;
 }
 
 .banner {
@@ -63,9 +63,9 @@ header h1 {
 }
 
 .title {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	padding: 1em;
 	color: f8f8ff;
 }
@@ -107,16 +107,16 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: #f8f8ff;
+	color: #f8f8ff;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+	color: hotpink;
 }
 
 /* selected link */
 a:active {
-  color: #f8f8ff;
+	color: #f8f8ff;
 }
 

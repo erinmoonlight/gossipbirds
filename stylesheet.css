@@ -86,7 +86,7 @@ p {
 	display: flex;
 }
 
-.tagline p {
+p .tagline {
 	text-align: center;
 	font-style: italic;
 }

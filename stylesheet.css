@@ -80,7 +80,10 @@ p {
 	display: flex;
 	color: f8f8ff;
 	text-align: center;
-	align-items: center;
+}
+
+.tagline i {
+	text-align: center;
 }
 
 section {

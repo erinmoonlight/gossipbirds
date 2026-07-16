@@ -28,7 +28,9 @@ header h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: dotted;
+  border: double;
+  border-weight: 5px;
+  border-color: f8f8ff;
 }
 
 .content img {
@@ -65,6 +67,7 @@ p {
 section {
 	padding-top: 1em;
 	border-bottom-style: dotted;
+	border-color: f8f8ff; 
 }
 
 ul {

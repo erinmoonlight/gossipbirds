@@ -5,14 +5,9 @@ body {
 	font: 100% Georgia, "Times New Roman", Times, serif;
 	padding: 20px;
 }
-
-@font-face {
-  font-family: myFont;
-  src: url(AutumnFlowers-9YVZK.otf); 
 	
 header h1 {
 	font-size: 4em;
-	font: myFont;
 	font-color: #f8f8ff
 }
 

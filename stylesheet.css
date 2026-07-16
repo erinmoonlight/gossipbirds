@@ -29,7 +29,7 @@ header h1 {
   justify-content: center;
   align-items: center;
   border: double;
-  border-weight: 5px;
+  border-weight: 15px;
   border-color: f8f8ff;
 }
 
@@ -43,6 +43,9 @@ header h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+	border: double;
+  border-weight: 15px;
+  border-color: f8f8ff;
 }
 
 .title {

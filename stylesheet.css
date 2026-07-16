@@ -6,7 +6,6 @@
 body {
 	width: 90vw;
 	background: #8FBC8B;
-	margin: 0 auto 2em;
 	font: 100% Georgia, "Times New Roman", Times, serif;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -50,8 +49,8 @@ header h1 {
 }
 
 .banner img {
-	width: 100%;
-	height: 100%;
+	max-width: 50vw;
+	height: auto;
 	object-fit: contain;
 	border: double;
 	border-weight: 15px;

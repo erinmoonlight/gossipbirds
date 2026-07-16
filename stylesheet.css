@@ -1,3 +1,9 @@
+@font-face {
+  font-family: myFont;
+  src: url(AutumnFlowers-9YVZK.otf);
+}
+
+
 body {
 	width: 960px;
 	background: #8FBC8B;
@@ -9,6 +15,7 @@ body {
 header h1 {
 	font-size: 4em;
 	font-color: #f8f8ff
+	font-family: myFont;
 }
 
 .headtwo {

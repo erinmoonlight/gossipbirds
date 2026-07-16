@@ -82,8 +82,8 @@ p {
 	text-align: center;
 }
 
-.tagline i {
-	text-align: center;
+.tagline {
+	font-style: italic;
 }
 
 section {

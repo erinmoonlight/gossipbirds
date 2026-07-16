@@ -15,7 +15,7 @@ body {
 }
 	
 header h1 {
-	font-size: 12vmin;
+	font-size: 12vw;
 	font-color: #f8f8ff;
 	text-align: center;
 	font-family: myFont;
@@ -23,7 +23,7 @@ header h1 {
 
 .headtwo {
 	color: #f8f8ff;
-	font-size: 10vmin;
+	font-size: 10vw;
 	text-align: center;
 	font-family: myFont;
 }

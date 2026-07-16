@@ -36,11 +36,6 @@ div.tagline {
 	text-align: center;
 }
 
-p .tagline {
-	font-style: italic;
-	font-size: 4vw;
-}
-
 .content {
 	display: flex;
 	justify-content: center;
@@ -85,11 +80,15 @@ html {
 
 p {
 	font: Georgia;
-	font-size: 2vw;
+	font-size: 4vw;
 	color: f8f8ff;
 	text-align: center;
 }
 
+p .tagline {
+	font-style: italic;
+	font-size: 6vw;
+}
 section {
 	padding-top: 1em;
 	border-bottom-style: dotted;

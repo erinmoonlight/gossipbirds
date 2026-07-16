@@ -84,6 +84,7 @@ ul {
 	font-size: 2em;
 	font-style: italics;
 	border-style: dotted;
+	border-color: f8f8ff;
 	text-align: center;
 	background: rgb(123, 121, 145);
 }

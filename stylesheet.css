@@ -82,10 +82,13 @@ p {
 	text-align: center;
 }
 
-div .tagline {
+.tagline {
 	display: flex;
-	font-style: italic;
+}
+
+.tagline p {
 	text-align: center;
+	font-style: italic;
 }
 
 section {

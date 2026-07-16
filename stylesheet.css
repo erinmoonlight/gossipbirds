@@ -82,8 +82,9 @@ p {
 	text-align: center;
 }
 
-text .tagline {
+div .tagline {
 	font-style: italic;
+	text-align: center;
 }
 
 section {

@@ -12,14 +12,14 @@ body {
 }
 	
 header h1 {
-	font-size: 5vh;
+	font-size: 8vh;
 	font-color: #f8f8ff;
 	font-family: myFont;
 }
 
 .headtwo {
 	color: #f8f8ff;
-	font-size: 4vh;
+	font-size: 6vh;
 	text-align: center;
 	font-family: myFont;
 }
@@ -65,7 +65,7 @@ html {
 
 p {
 	font: Georgia;
-	font-size: 2vh;
+	font-size: 4vh;
 	display: flex;
 	color: f8f8ff;
 }

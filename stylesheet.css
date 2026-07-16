@@ -88,6 +88,7 @@ p {
 .tagline p {
 	font-style: italic;
 	font-size: 4vw;
+	color: pink;
 }
 
 section {

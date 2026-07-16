@@ -32,6 +32,14 @@ header h1 {
 	margin-bottom: 0.25em;
 }
 
+div.tagline {
+	text-align: center;
+}
+
+p .tagline {
+	font-style: italic;
+}
+
 .content {
 	display: flex;
 	justify-content: center;
@@ -80,15 +88,6 @@ p {
 	display: flex;
 	color: f8f8ff;
 	text-align: center;
-}
-
-.tagline {
-	display: flex;
-}
-
-p .tagline {
-	text-align: center;
-	font-style: italic;
 }
 
 section {

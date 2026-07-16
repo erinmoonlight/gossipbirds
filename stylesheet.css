@@ -12,14 +12,14 @@ body {
 }
 	
 header h1 {
-	font-size: 8vh;
+	font-size: 12vh;
 	font-color: #f8f8ff;
 	font-family: myFont;
 }
 
 .headtwo {
 	color: #f8f8ff;
-	font-size: 6vh;
+	font-size: 10vh;
 	text-align: center;
 	font-family: myFont;
 }

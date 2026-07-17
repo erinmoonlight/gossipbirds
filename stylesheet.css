@@ -80,14 +80,28 @@ html {
 
 p {
 	font: Georgia;
-	font-size: 2.5vw;
+	font-size: 4vw;
 	color: f8f8ff;
 	text-align: center;
 }
 
 .tagline p {
 	font-style: italic;
-	font-size: 3vw;
+	font-size: 5vw;
+}
+
+@media screen and (min-width: 800px) {
+	p {
+		font: Georgia;
+		font-size: 2.5vw;
+		color: f8f8ff;
+		text-align: center;
+	}
+	
+	.tagline p {
+		font-style: italic;
+		font-size: 3vw;
+	}
 }
 
 section {

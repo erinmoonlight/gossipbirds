@@ -47,7 +47,7 @@ div.tagline {
 	height: auto;
 	object-fit: contain;
 	border: double;
-	border-weight: 15px;
+	border-weight: 25px;
 	border-color: f8f8ff;
 }
 
@@ -62,7 +62,7 @@ div.tagline {
 	height: auto;
 	object-fit: contain;
 	border: double;
-	border-weight: 15px;
+	border-weight: 25px;
 	border-color: f8f8ff;
 }
 
@@ -108,6 +108,7 @@ section {
 	padding-top: 1em;
 	border-bottom-style: dotted;
 	border-color: f8f8ff; 
+	border-weight: 20px;
 }
 
 ul {
@@ -119,6 +120,7 @@ ul {
 	font-style: italics;
 	border-style: dotted;
 	border-color: f8f8ff;
+	border-weight: 20px;
 	text-align: center;
 	background: rgb(123, 121, 145);
 }
